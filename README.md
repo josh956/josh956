@@ -1,6 +1,5 @@
-- 👋 Hi, my name is Josh and I am currently a senior at the University of Denver, on track to graduate in the Spring of 2023
-- I am majoring in Business Information Analytics, with a minor in Finance
-- In the last 12 months, I have worked for 3 companies:
+- 👋 Hi, my name is Josh and I graduated from the University of Denver in 2024, with a BsBa in Data Analytics
+- From 2021-2023, I worked/interned at 3 companies:
 -   Moroch Partners
 -   Flipside Crypto
 -   Charles Schwab
