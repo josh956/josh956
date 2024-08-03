@@ -1,19 +1,20 @@
-- 👋 Hi, my name is Josh and I graduated from the University of Denver in 2024, with a BsBa in Data Analytics
+- 👋 Hi, my name is Josh and I graduated from the University of Denver in 2024 with a bachelors in data analytics
 - From 2021-2023, I worked/interned at 3 companies:
 -   Moroch Partners
 -   Flipside Crypto
 -   Charles Schwab
-
+-   Starting in 2023, I began full time as a technology risk consultant at RSM
 
 --- Skills Page---
 - Hard Skills
     Python
-    R
+    Azure AI Studio
     SQL
-    SQL Server
+    SSMS
     MS Suite
     Visual Studio
     VBA
+    
     
 - Soft Skills
     Highly communicative
@@ -49,5 +50,7 @@ Here are some exmaples of my work in SQL Server:
 3. Charles Schwab
   a. Worked as a product manager on their portfolio rebalancing tool, iRebal
   b. Brought in new clients to use the tool and trained them
-  
---- 
+
+4. RSM
+  a. Automated audit testing procedures in Azure AI Studio
+  b. Implmented information security policy bots to ensure our client's security policies match the SEC expectations
